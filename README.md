@@ -16,3 +16,5 @@ These findings underscore the importance of urban infrastructure and crime detec
 
 
 Website: https://emmawita.github.io/python_final/
+
+Contributors: Emma Witanowski, Hayden Chu & Jack Chen
