@@ -1,6 +1,7 @@
 # MUSA 550 Final Project
 
-**Predicting Assault Incidents in Chicago: A Poisson Regression Model Integrating Geospatial and Socioeconomic Variables,** /
+**Predicting Assault Incidents in Chicago: A Poisson Regression Model Integrating Geospatial and Socioeconomic Variables,** 
+
 *Strategic Crime Prevention Through Advanced Predictive Analytics*
 
 ***
