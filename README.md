@@ -1,5 +1,9 @@
 # MUSA 550 Final Project
 
+**Predicting Assault Incidents in Chicago: A Poisson Regression Model Integrating Geospatial and Socioeconomic Variables**
+*Strategic Crime Prevention Through Advanced Predictive Analytics*
+
+***
 
 #### Study Abstract 
 Machine learning (ML) is an invaluable tool for crime analysis and prediction, providing law enforcement with data-driven insights to enhance crime prevention. This project aims to forecast assault incidents across Chicago neighborhoods using Poisson regression, which is ideal for modeling count data like crime occurrences.
